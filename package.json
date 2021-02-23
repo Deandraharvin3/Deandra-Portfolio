@@ -1,0 +1,19 @@
+{
+  "name": "deandra-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deandraharvin3/Deandra-Portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deandraharvin3/Deandra-Portfolio/issues"
+  },
+  "homepage": "https://github.com/Deandraharvin3/Deandra-Portfolio#readme"
+}
